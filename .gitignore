@@ -1,0 +1,11 @@
+# gitignore
+
+# python cache
+# - python 的缓存文件
+__pycache__
+
+# loacl config
+# - 本地测试的配置文件
+config.py
+config.ini
+api_config.py
