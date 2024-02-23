@@ -1,0 +1,22 @@
+{
+  "name": "mewtea-api",
+  "version": "1.0.0",
+  "description": "Mewtea Web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ediblewildfungi/MewteaAPI.git"
+  },
+  "keywords": [
+    "mewtea"
+  ],
+  "author": "Ediblewildfungi <jianghhui@gmail.com> (https://github.com/Ediblewildfungi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ediblewildfungi/MewteaAPI/issues"
+  },
+  "homepage": "https://github.com/Ediblewildfungi/MewteaAPI#readme"
+}
